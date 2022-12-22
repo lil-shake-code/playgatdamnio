@@ -41343,7 +41343,7 @@ function _cb(_k6, _l6) {
 
 function _eb(_k6, _l6) {
   {
-    sio_connect_by_url("https://server.gatdamn.io");
+    sio_connect_by_url("https://server.gatdamn.io:3000");
     sio_addEvent("create_player");
     sio_addEvent("create_player_other");
     sio_addEvent("destroy_player");
