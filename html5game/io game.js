@@ -41259,7 +41259,7 @@ function _Td(_09, _19) {
 }
 function _Vd(_09, _19) {
   {
-    sio_connect_by_url("tcp://4.tcp.ngrok.io:15160");
+    sio_connect_by_url("4.tcp.ngrok.io:15160");
     sio_addEvent("create_player");
     sio_addEvent("create_player_other");
     sio_addEvent("destroy_player");
