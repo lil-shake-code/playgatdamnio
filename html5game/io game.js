@@ -41259,7 +41259,7 @@ function _Td(_09, _19) {
 }
 function _Vd(_09, _19) {
   {
-    sio_connect_by_url("https://server.gatdamn.io:3000");
+    sio_connect_by_url("tcp://4.tcp.ngrok.io:15160");
     sio_addEvent("create_player");
     sio_addEvent("create_player_other");
     sio_addEvent("destroy_player");
@@ -96424,7 +96424,7 @@ _8p2.prototype._cp2 = function (_Nn2, _On2, _Pn2) {
   for (_2q2 = __p2.length; _1q2 < _2q2; ++_1q2)
     (_0q2 = __p2[_1q2]),
       _751("Zlib.Deflate.CompressionType." + _0q2, _Yp2[_0q2]);
-}.call(this));  //@ sourceMappingURL=deflate.min.js.map
+}.call(this)); //@ sourceMappingURL=deflate.min.js.map
 /** fingerprintJS 0.5.4 - Fast browser fingerprint library
  * https://github.com/Valve/fingerprintjs
  * Copyright (c) 2013 Valentin Vasilyev (valentin.vasilyev@outlook.com)
