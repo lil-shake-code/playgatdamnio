@@ -41259,7 +41259,7 @@ function _Td(_09, _19) {
 }
 function _Vd(_09, _19) {
   {
-    sio_connect_by_url("https://d06d-65-19-132-211.ngrok.io/");
+    sio_connect_by_url("a098-65-19-132-211.ngrok-free.app");
     sio_addEvent("create_player");
     sio_addEvent("create_player_other");
     sio_addEvent("destroy_player");
@@ -96424,7 +96424,7 @@ _8p2.prototype._cp2 = function (_Nn2, _On2, _Pn2) {
   for (_2q2 = __p2.length; _1q2 < _2q2; ++_1q2)
     (_0q2 = __p2[_1q2]),
       _751("Zlib.Deflate.CompressionType." + _0q2, _Yp2[_0q2]);
-}.call(this)); //@ sourceMappingURL=deflate.min.js.map
+}).call(this); //@ sourceMappingURL=deflate.min.js.map
 /** fingerprintJS 0.5.4 - Fast browser fingerprint library
  * https://github.com/Valve/fingerprintjs
  * Copyright (c) 2013 Valentin Vasilyev (valentin.vasilyev@outlook.com)
@@ -97185,7 +97185,7 @@ _8p2.prototype._cp2 = function (_Nn2, _On2, _Pn2) {
   _LK = 0;
   for ($ = _JK.length; _LK < $; ++_LK)
     (_KK = _JK[_LK]), _wO("Zlib.Inflate.BufferType." + _KK, _1q2[_KK]);
-}.call(this)); //@ sourceMappingURL=inflate.min.js.map
+}).call(this); //@ sourceMappingURL=inflate.min.js.map
 /*@constructor */ function _Eq2() {
   this._Fq2 = 0;
   this._Gq2 = null;
