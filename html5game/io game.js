@@ -44417,7 +44417,7 @@ function _b6(_09, _19) {
   _je(
     yyftime(_va(_09._zf), 0.01),
     yyftime(_va(_09._yf), 0.9),
-    "More IO Games",
+    "IOgames.Forum",
     yyftime(0.3, _va(_09._ge)),
     yyftime(0.3, _va(_09._ge)),
     0
@@ -44433,7 +44433,7 @@ function _b6(_09, _19) {
         yyGetBool(yyfless(_Wg, yyftime(0.11, _va(_09._zf))))
       ) {
         {
-          _fh("https://iogames.space/category/2d-shooter", "_blank");
+          _fh("https://iogames.forum/c/gatdamn-io/", "_blank");
         }
       }
     }
